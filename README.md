@@ -18,7 +18,7 @@ Mientras estos mods si se pueden usar en [Quilt](https://quiltmc.org), yo person
 * [Sodium](https://modrinth.com/mod/sodium)
 
 # Mods de Calidad de Vida
-* [Better F3]([Better Ping Display](https://modrinth.com/mod/betterf3)
+* [Better F3](https://modrinth.com/mod/betterf3)
 * [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * [Blur](https://modrinth.com/mod/blur-fabric/)
